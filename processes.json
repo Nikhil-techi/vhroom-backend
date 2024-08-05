@@ -1,0 +1,8 @@
+{
+    "apps" : [{
+    "name"        : "vhroom-backend-api",
+    "script"      : "./app.js",
+    "watch"       : "../",
+    "log_date_format"  : "YYYY-MM-DD HH:mm Z"
+    }]
+}
